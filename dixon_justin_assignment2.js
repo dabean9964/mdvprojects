@@ -1,3 +1,3 @@
 alert("JavaScript works!");
 
-consol.log(Hello);
+consol.log(Hello World);
